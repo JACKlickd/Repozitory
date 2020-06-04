@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7s2", "Lab7s2\Lab7s2.csproj", "{DEFA2BA4-C951-4FB3-8122-D521959B3E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStruct", "DataStruct\DataStruct.csproj", "{C0FD1702-F607-49AE-8375-E947BD7D5809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFA2BA4-C951-4FB3-8122-D521959B3E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFA2BA4-C951-4FB3-8122-D521959B3E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFA2BA4-C951-4FB3-8122-D521959B3E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFA2BA4-C951-4FB3-8122-D521959B3E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FD1702-F607-49AE-8375-E947BD7D5809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FD1702-F607-49AE-8375-E947BD7D5809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FD1702-F607-49AE-8375-E947BD7D5809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FD1702-F607-49AE-8375-E947BD7D5809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100F52F9-A0D4-4AD2-ABDF-7D5C21C40A49}
+	EndGlobalSection
+EndGlobal
